@@ -1,5 +1,8 @@
-### Hi there 👋
+# Adrian Cires
 
+### Hello! This is my home GitHub page. 
+
+### As a short intro, I am the current Avionics Lead for UMD Loop, the University of Maryland's University Rover Challenge (URC) team.
 <!--
 **a-cires/a-cires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
