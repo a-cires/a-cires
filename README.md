@@ -8,7 +8,8 @@
 
 Shoot me an email if you want to get in touch.
 
-### Check out some of my work: adriancires.com
+### Check out some of my work: 
+adriancires.com
 
 <!--
 **a-cires/a-cires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
